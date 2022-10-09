@@ -1,0 +1,15 @@
+.App {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.AppDiv {
+  /* background-color: lightcoral; */
+  padding: 3px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.WithBorder {
+  border: 1px dashed green;
+  margin: 3px;
+}
